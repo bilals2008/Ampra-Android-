@@ -1,0 +1,6 @@
+{
+  "name": "Ampra",
+  "description": "Smart Charging Alerts & Battery Protection - Optimize your battery lifespan with customized battery level alerts, alarms, profiles, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
